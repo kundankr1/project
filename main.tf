@@ -8,7 +8,7 @@ resource "aws_instance" "project" {
     instance_type = "t3.medium"
     key_name = "moon"
     tags = {
-        Name = "kundan"
+        Name = "kundan verma ji"
     }
   
 }
